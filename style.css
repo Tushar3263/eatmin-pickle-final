@@ -15,7 +15,7 @@ body{
 .header-top{
     border: 1px solid #fab446;
     height: 40px;
-    background-color: #fab446;
+    background-color: #red;
     max-width: 1680px;
 }
 .header-top-txt{
